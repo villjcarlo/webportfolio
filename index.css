@@ -24,7 +24,7 @@
 
 
 #landing {
-	background-image: url(https://static.vecteezy.com/system/resources/previews/033/949/237/non_2x/modern-and-good-looking-dark-color-musical-background-free-vector.jpg);
+	background-image: url(./images/background.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	text-align: center;
@@ -64,7 +64,7 @@
 }
 
 #contact {
-	background-image: url(https://static.vecteezy.com/system/resources/previews/033/949/237/non_2x/modern-and-good-looking-dark-color-musical-background-free-vector.jpg);
+	background-image: url(./images/background.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: snow;
