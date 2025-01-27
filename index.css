@@ -1,0 +1,76 @@
+* {
+	font-family: Raleway, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+#navbar {
+	background: lightblue;
+	color: white;
+	font-weight: bold;
+}
+
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  content: "";
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='rgba%280, 0, 0, 0.5%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+
+#landing {
+	background-color: midnightblue;
+	text-align: center;
+	padding: 30px 50px;
+	color: snow;
+}
+
+/* CSS */
+#landing img {
+  max-width: 200px;  
+  height: auto;      
+}
+
+
+/*#landing img {
+	height: 200px;
+	width: 200px;
+}*/
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.carousel-caption, .carousel-caption > h5, .carousel-caption > p {
+	background: rgb(240, 255, 240, 0.8);
+	color: darkblue;
+	font-weight: bold;
+	border-radius: 15px;
+}
+
+#tools img {
+	height: 50px;
+	width: 50px;
+	margin: 10px;
+}
+
+#contact {
+	background: midnightblue;
+	color: snow;
+}
+
+#contact img {
+	height: 40px;
+	width: 40px;
+}
+
+#contact input, #contact textarea {
+	margin-bottom: 20px;
+}
